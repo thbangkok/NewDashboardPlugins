@@ -2,7 +2,7 @@
 // @name         Shutterstock.NewDashboardPlugins
 // @namespace    
 // @version      1.6.8
-// @updateURL    
+// @updateURL    https://github.com/thbangkok/NewDashboardPlugins/raw/master/Shutterstock.ShowDownloadLocations.user.js
 // @description  Show detailed localization to Shutterstock Latest Downloads map, based on Satinka's https://gist.github.com/satinka/5479a93d389a07d41246
 // @author       Naphong Sudthisornyothin, based on Satinka's
 // @match        http://submit.shutterstock.com/home.mhtml*
